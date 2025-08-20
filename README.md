@@ -14,6 +14,7 @@ Hobbies:
 - skateboarding
 
 Favorite Movie: [Hackers](movie)
+
 [![Movie Poster](https://i.ebayimg.com/images/g/I60AAOSwnbZYCqoV/s-l1200.jpg)][movie]
 
 [movie]: https://www.imdb.com/title/tt0113243/
